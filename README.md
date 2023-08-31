@@ -4,7 +4,7 @@
 <br><br>
 **관리자 / 사장님 / 고객** 측면으로 나누어 구현<br>
 배달 서비스를 이용하는데 필요한 기능을 모두 구현하고자 하였음.
-
+#### :link:[ 요리조리요🔍 ](https://github.com/JiYoon0712/yorizori/blob/560ffd1e3e89d720870add70d39978ff765ba434/%EC%9A%94%EB%A6%AC%EC%A1%B0%EB%A6%AC.pdf)
 ![title](https://github.com/JiYoon0712/yorizori/assets/98688979/4f1c9cf7-dfa1-4006-8d1d-d913dc537612)
 # <img width = "100%" src = "!https://github.com/JiYoon0712/yorizori/assets/98688979/78e0c9d6-2475-488a-99ee-49238a40f184"/>
 ## TEAM MEMBER 👨‍👨‍👧‍👧
