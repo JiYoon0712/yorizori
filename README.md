@@ -54,6 +54,6 @@
 
 ## E-R 다이어그램 & 유스케이스📄
 ![003](https://github.com/JiYoon0712/yorizori/assets/98688979/b2d48ae4-c6d5-4c37-9a67-8e9306565369)
-![004](https://github.com/JiYoon0712/yorizori/assets/98688979/a302e882-77af-4058-9619-429a43f83f16)
+![004](https://github.com/JiYoon0712/yorizori/assets/98688979/ce502b37-93ac-47c2-a24c-ad8fab5f71ae)
 
 
